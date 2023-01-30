@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1674685130 source:c:\users\vinic\onedrive\documentos\trabalhos_da_faculdade\trabalho_de_algoritmos\multiplicacao_russa\multiplicacao_russa.c
+	<stdlib.h>
+	<stdio.h>
+
+1674683519 source:c:\users\administrador\onedrive\documentos\trabalhos_da_faculdade\trabalho_de_algoritmos\c_c++\multiplicacao_russa\multiplicacao_russa.c
+	<stdlib.h>
+	<stdio.h>
+
+1675111538 source:c:\users\vinic\onedrive\documentos\trabalhos_da_faculdade\trabalho_de_algoritmos\c_c++\multiplicacao_russa\multiplicacao_russa.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1675111548 c:\users\vinic\onedrive\documentos\trabalhos_da_faculdade\trabalho_de_algoritmos\c_c++\multiplicacao_russa\funcoes.h
+
